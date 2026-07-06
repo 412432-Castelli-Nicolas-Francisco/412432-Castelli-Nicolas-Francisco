@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
 <!--
 **412432-Castelli-Nicolas-Francisco/412432-Castelli-Nicolas-Francisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
